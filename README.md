@@ -34,5 +34,7 @@ Create your own repository based on this template and push your markdown files, 
 
 Find more details in:
 
-- English:  [Qiita-Sync README](https://github.com/ryokat3/qiita-sync)
-- Japanese: [GitHub連携でQiita記事を素敵な執筆環境で！](https://qiita.com/ryokat3/items/d054b95f68810f70b136)
+- English: [Qiita-Sync README](https://github.com/ryokat3/qiita-sync)
+- Japanese: [GitHub 連携で Qiita 記事を素敵な執筆環境で！](https://qiita.com/ryokat3/items/d054b95f68810f70b136)
+
+![Qiita Sync](https://github.com/yamashin01/qiita_tech_report/actions/workflows/qiita_sync_check.yml/badge.svg)
