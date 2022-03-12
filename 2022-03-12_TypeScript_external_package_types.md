@@ -5,7 +5,6 @@ id:      3648b5a0678ce57af010
 private: false
 -->
 
-
 # 概要
 
 オンラインサロン IT_KINGDOM で、typescript について学んだことを備忘録としてメモしていきます。
@@ -54,4 +53,3 @@ export type NextPage<P = {}, IP = P> = NextComponentType<NextPageContext, IP, P>
 # 参考サイト
 
 [IT Kingdom](https://it-kingdom.com/)
-[typescript documentation](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
