@@ -1,8 +1,10 @@
 <!--
 title:   【TypeScript入門 #8】型宣言ファイルと外部パッケージの型利用
-tags:    TypeScript,interface,typealias,it_kingdom
+tags:    TypeScript,interface,it_kingdom,typealias
+id:      3648b5a0678ce57af010
 private: false
 -->
+
 
 # 概要
 
