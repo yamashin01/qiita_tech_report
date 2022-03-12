@@ -4,44 +4,53 @@ tags:    React,create-react-app,npm
 id:      9bb1d8aa4f70df6823f0
 private: false
 -->
-#Reactの開発環境
 
-ターミナル上で下記のコマンドを実行することで、create-react-appを準備する
+# React の開発環境
 
-##create-react-appとは
-Reactを開発するための環境
+ターミナル上で下記のコマンドを実行することで、create-react-app を準備する
 
+## create-react-app とは
 
-##準備する環境
+React を開発するための環境
+
+## 準備する環境
+
 macbook
-node 8.10以上
-npm 5.6以上
+node 8.10 以上
+npm 5.6 以上
 
----
-##開発環境を作るディレクトリに移動する
+## 開発環境を作るディレクトリに移動する
 
-##homebrewをインストールする
+## homebrew をインストールする
 
-##nodebrewをインストールする
-一緒にnpmもインストールされる
-###インストールコマンド
-brew install nodebrew
+## nodebrew をインストールする
 
-###インストールの確認
-nodebrew -v
+一緒に npm もインストールされる
 
-##npmインストールの確認
-npm -v
+### インストールコマンド
 
-##reate-react-appのインストール
-npx create-react-app [開発環境を作るディレクトリ名]
+`brew install nodebrew`
+
+### インストールの確認
+
+`nodebrew -v`
+
+## npm インストールの確認
+
+`npm -v`
+
+## reate-react-app のインストール
+
+`npx create-react-app` [開発環境を作るディレクトリ名]
 
 上記作業により、開発環境は完了
 
----
-#create-react-appの実行
-## npmのビルド
-npm run build
+# create-react-app の実行
 
-## npmの開始
-npm start
+## npm のビルド
+
+`npm run build`
+
+## npm の開始
+
+`npm start`
