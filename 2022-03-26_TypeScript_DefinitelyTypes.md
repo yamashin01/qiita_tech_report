@@ -1,8 +1,10 @@
 <!--
 title:   【TypeScript入門 #9】Definitely Typed(@types)とは
-tags:    TypeScript,types,it_kingdom
+tags:    TypeScript,Types,it_kingdom
+id:      3f485f7af7435564d90d
 private: false
 -->
+
 
 # 概要
 
