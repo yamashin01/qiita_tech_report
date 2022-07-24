@@ -1,8 +1,10 @@
 <!--
 title:   【TypeScript入門 #11】ダウンキャストとアップキャストについて
-tags:    TypeScript,downcast,upcast,it_kingdom
+tags:    TypeScript,downcast,it_kingdom,upcast
+id:      63e283708c0d35815357
 private: false
 -->
+
 
 # 概要
 

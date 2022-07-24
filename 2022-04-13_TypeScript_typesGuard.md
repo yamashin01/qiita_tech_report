@@ -1,8 +1,10 @@
 <!--
 title:   【TypeScript入門 #13】Type Guard(型ガード)
 tags:    TypeScript,it_kingdom
+id:      255b515e4b29aeac0b16
 private: false
 -->
+
 
 オンラインサロン IT_KINGDOM で、typescript について学んだことを備忘録としてメモしていきます。
 

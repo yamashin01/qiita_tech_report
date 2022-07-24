@@ -1,8 +1,10 @@
 <!--
 title:   【TypeScript入門 #12】Index SignatureとMapped Typesの違い
-tags:    TypeScript,index_signature,mapped_types,it_kingdom
+tags:    TypeScript,index_signature,it_kingdom,mapped_types
+id:      28e08e66f29edb83d909
 private: false
 -->
+
 
 # 概要
 
