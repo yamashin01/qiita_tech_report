@@ -1,8 +1,10 @@
 <!--
 title:   【TypeScript入門 #14】ユーザー定義の型ガード(TypeGuard)について
 tags:    TypeScript,it_kingdom
+id:      e206aeab4d4666bebc24
 private: false
 -->
+
 
 # 概要
 
