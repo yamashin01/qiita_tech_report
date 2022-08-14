@@ -1,8 +1,10 @@
 <!--
 title:   【TypeScript入門 #17】Utility Typesとは
-tags:    TypeScript,utilityTypes,it_kingdom
+tags:    TypeScript,it_kingdom,utilityTypes
+id:      f8b02dc876ff5f30d6cf
 private: false
 -->
+
 
 # 概要
 
