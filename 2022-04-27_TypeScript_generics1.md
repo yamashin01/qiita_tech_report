@@ -1,8 +1,10 @@
 <!--
 title:   【TypeScript入門 #15】Genericsの活用
-tags:    TypeScript,Generics,it_kingdom
+tags:    Generics,TypeScript,it_kingdom
+id:      e485fddb316db8a3f72a
 private: false
 -->
+
 
 # 概要
 
