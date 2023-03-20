@@ -16,16 +16,29 @@ React の状態管理の 1 つである、`Jotai`について学んだことを�
 
 # Jotai とは
 
-recoil の影響が強い(概念はほぼ同じ)<br>
+Atom ベースの状態管理。recoil の影響が強い(概念はほぼ同じ)。
 ボトムアップアプローチ（コンポーネントから状態を生成する）
+![jotai](https://storage.googleapis.com/candycode/jotai/jotai-mascot.png)
+[^1](https://jotai.org/)
 
 ## 特長
 
 - 簡素な記述で使える
+- 最小限のコア API (2kb)
+- 多くのユーティリティと統合
+- TypeScript 指向
+- Next.js、Gatsby、Remix、React Native で動作
+- SWC および Babel プラグインを使用した React Fast Refresh
 
 # 導入方法
 
 ## インストール方法
+
+```
+$ npm i jotai
+```
+
+or
 
 ```
 $ yarn add jotai
@@ -47,17 +60,17 @@ const [_, setTodos] = useAtom(todosAtom);
 
 ## 使用例
 
-```javascript
+```typescript :src/state/todo
 import { atom } from "jotai";
 import { Todo } from "src/types";
 
 export const todosAtom = atom<Todo[]>([
-    { id: 1, text: "foo", isDone: false },
-    { id: 2, text: "bar", isDone: true },
-])
+  { id: 1, text: "foo", isDone: false },
+  { id: 2, text: "bar", isDone: true },
+]);
 ```
 
-```javascript
+```typescript
 import type { NextPage } from "next";
 import { todosAtom } from "src/state/todo";
 import { Todo } from "src/types";
